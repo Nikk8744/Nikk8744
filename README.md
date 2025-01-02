@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate full stack from India.</h3>
 
-<p align="left">  Total views</p>
-[![](https://visitcount.itsvg.in/api?id=Nikk8744&icon=5&color=7)](https://visitcount.itsvg.in)
-
 - 🔭 I’m currently working on **mental wellness journal**
 
 - 🌱 I’m currently learning **Different web dev frameworks and ORMs.**
