@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate full stack from India.</h3>
+<h3 align="center">A passionate full stack dev from India.</h3>
 
 - 🔭 I’m currently working on **mental wellness journal**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN stack.**
 
-- ⚡ Fun fact **I think I am funny. PS: I am**
+- ⚡ Fun fact **I think I am funny.                            PS: I am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
