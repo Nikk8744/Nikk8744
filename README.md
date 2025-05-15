@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate full stack dev from India.</h3>
 
-- 🔭 I’m currently working on **Home Service Management system**
+- 🔭 I’m currently working on **Freelance Time Tracker**
 
 - 🌱 I’m currently learning **Different web dev frameworks and ORMs.**
 
